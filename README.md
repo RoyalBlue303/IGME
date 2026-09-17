@@ -27,5 +27,5 @@ Hello! My name is **Evan Lerman** :star2:, I'm a Game Design and Development maj
 - [Steam] (https://store.steampowered.com/)
 
 ![Picture of Kirby]: (https://upload.wikimedia.org/wikipedia/en/4/4e/Kirby_Nintendo.png)
-![Picture of Pikachu]: (https://thumb.wikimedia.org/wikipedia/en/thumb/a/a6/Pok%C3%A9mon_Pikachu_art.png)
+![Picture of Pikachu]: (https://en.wikipedia.org/wiki/Pikachu#/media/File:Pok%C3%A9mon_Pikachu_art.png)
 
