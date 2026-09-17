@@ -20,12 +20,12 @@ Hello! My name is **Evan Lerman** :star2:, I'm a Game Design and Development maj
 
 ##Links to cool things
 
-- [RIT] (https://www.rit.edu/)
-- [Kirby Wikipedia Article] (https://en.wikipedia.org/wiki/Kirby_(series)#Characters)
-- [DND Beyond] (https://www.dndbeyond.com/en?srsltid=AU7gw4XYMKNWflQQ17rR4fwrq1s07iWkiRPB-nbdb6qpZOm4YjOr582N)
-- [Roll a Die] (https://rolladie.net/)
-- [Steam] (https://store.steampowered.com/)
+- [RIT](https://www.rit.edu/)
+- [Kirby Wikipedia Article](https://en.wikipedia.org/wiki/Kirby_(series)#Characters)
+- [DND Beyond](https://www.dndbeyond.com/en?srsltid=AU7gw4XYMKNWflQQ17rR4fwrq1s07iWkiRPB-nbdb6qpZOm4YjOr582N)
+- [Roll a Die](https://rolladie.net/)
+- [Steam](https://store.steampowered.com/)
 
-![Picture of Kirby]: (https://upload.wikimedia.org/wikipedia/en/4/4e/Kirby_Nintendo.png)
-![Picture of Pikachu]: (https://en.wikipedia.org/wiki/Pikachu#/media/File:Pok%C3%A9mon_Pikachu_art.png)
+![Picture of Kirby](https://upload.wikimedia.org/wikipedia/en/4/4e/Kirby_Nintendo.png)
+![Picture of Pikachu](https://en.wikipedia.org/wiki/Pikachu#/media/File:Pok%C3%A9mon_Pikachu_art.png)
 
