@@ -23,6 +23,5 @@ My name is **Evan Lerman**, I'm a Game Design and Development major at **Rochest
 []
 
 
-![Picture of Kirby]:
-https://upload.wikimedia.org/wikipedia/en/4/4e/Kirby_Nintendo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+![Picture of Kirby]: https://upload.wikimedia.org/wikipedia/en/4/4e/Kirby_Nintendo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 
