@@ -2,26 +2,30 @@
 This is my repository for IGME 110
 
 ## About me
-My name is **Evan Lerman**, I'm a Game Design and Development major at **Rochester Institute of Technology**.
+
+Hello! My name is **Evan Lerman** :star2:, I'm a Game Design and Development major at **Rochester Institute of Technology** :school_satchel:.
 
 ## Things I do every day
 - Go to my classes
-- Write
+- Write 
 - Play video games
 - Study
 - Check my email
 
 ## My favorite colors
-- Blue
-- Red
-- Green
+- Blue :blue_heart:
+- Red :heart:
+- Green :green_heart:
 
 
-##Links
+##Links to cool things
 
 [RIT] (https://www.rit.edu/)
-[]
+[Kirby Wikipedia Article] (https://en.wikipedia.org/wiki/Kirby_(series)#Characters)
+[DND Beyond] (https://www.dndbeyond.com/en?srsltid=AU7gw4XYMKNWflQQ17rR4fwrq1s07iWkiRPB-nbdb6qpZOm4YjOr582N)
+[Roll a Die] (https://rolladie.net/)
+[Steam] (https://store.steampowered.com/)
 
-
-![Picture of Kirby]: https://upload.wikimedia.org/wikipedia/en/4/4e/Kirby_Nintendo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+![Picture of Kirby]: (https://upload.wikimedia.org/wikipedia/en/4/4e/Kirby_Nintendo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+![Picture of Pikachu]: (https://thumb.wikimedia.org/wikipedia/en/thumb/a/a6/Pok%C3%A9mon_Pikachu_art.png/250px-Pok%C3%A9mon_Pikachu_art.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
