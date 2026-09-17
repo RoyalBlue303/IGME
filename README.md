@@ -1,5 +1,5 @@
-# IGME
-This is my repository for IGME 110
+# About me
+This is my repository for IGME 110 which all about me and stuff I like
 
 ## About me
 
