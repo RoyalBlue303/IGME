@@ -18,7 +18,7 @@ Hello! My name is **Evan Lerman** :star2:, I'm a Game Design and Development maj
 - Green :green_heart:
 
 
-##Links to cool things
+## Links to cool things
 
 - [RIT](https://www.rit.edu/)
 - [Kirby Wikipedia Article](https://en.wikipedia.org/wiki/Kirby_(series)#Characters)
