@@ -26,6 +26,8 @@ Hello! My name is **Evan Lerman** :star2:, I'm a Game Design and Development maj
 - [Roll a Die](https://rolladie.net/)
 - [Steam](https://store.steampowered.com/)
 
+## Fun Images
+
 ![Picture of Kirby](https://upload.wikimedia.org/wikipedia/en/4/4e/Kirby_Nintendo.png)
 ![Picture of Pikachu](https://thumb.wikimedia.org/wikipedia/en/thumb/a/a6/Pok%C3%A9mon_Pikachu_art.png/250px-Pok%C3%A9mon_Pikachu_art.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
